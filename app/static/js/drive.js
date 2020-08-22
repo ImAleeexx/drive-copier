@@ -146,7 +146,7 @@ function submit() {
     });
   }
   else {
-    M.toast({html: 'Pick a folder'})
+    M.toast({html: 'Selecciona una carpeta'})
   }
 
 }
